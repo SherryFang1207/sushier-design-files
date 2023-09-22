@@ -18,12 +18,10 @@ Explore our design concepts, wireframes, and prototypes using Figma. You can vie
 2. [Mood Board](https://www.figma.com/file/jT4PadUfzNqQbXYFthRkoC/Sushier-MoodBoard?type=design&node-id=0%3A1&mode=design&t=PvMtJne5UkPt2jKF-1)
    - **Description**: The Mood Board sets the tone for our design by showcasing visual inspirations and themes that influenced our choices. It helps us establish a consistent look and feel for Sushier.
 
-   ![Preview Image](Link to Preview Image 1)
-
 3. [Wireframe](https://www.figma.com/file/jT4PadUfzNqQbXYFthRkoC/Sushier-MoodBoard?type=design&node-id=9%3A57&mode=design&t=PvMtJne5UkPt2jKF-1)
    - **Description**: The Wireframe represents the skeletal structure of our application, defining layout and functionality. It guides the layout and interaction design process.
 
-   ![Preview Image](Link to Preview Image 2)
+   ![Preview Image](Figma Design Files/Hero Section Wireframe.png)
 
 
 
