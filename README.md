@@ -21,7 +21,7 @@ Explore our design concepts, wireframes, and prototypes using Figma. You can vie
 3. [Wireframe](https://www.figma.com/file/jT4PadUfzNqQbXYFthRkoC/Sushier-MoodBoard?type=design&node-id=9%3A57&mode=design&t=PvMtJne5UkPt2jKF-1)
    - **Description**: The Wireframe represents the skeletal structure of our application, defining layout and functionality. It guides the layout and interaction design process.
 
-   ![Preview Image](Figma Design Files/Hero Section Wireframe.png)
+   ![Preview Image](Figma-Design-Files/Hero-Section-Wireframe.png)
 
 
 
